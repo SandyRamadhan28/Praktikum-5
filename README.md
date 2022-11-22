@@ -4,14 +4,17 @@
 
 #### Saya juga menggunakan list untuk program input pada koding, yaitu menggunakan python list methods : append ( ) menambah item dari belakang, selain itu saya menggunakan while untuk mengulang pertanyaan.
 
-### flowchart
-![img](Gambar/3.png)
-### Berikut contoh Gambar Sintaksnya
+## Flowchart
 
-![img](Gambar/1.png)
-![img](Gambar/2.png)
+![img](Gambar/3.png)</br>
 
-### Berikut contoh Gambar Output
-![img](Gambar/4.png)
+## Berikut contoh Gambar Sintaksnya
 
-##### SELESAI TERIMAKASIH.
+![img](Gambar/1.png)</br>
+
+![img](Gambar/2.png)</br>
+
+## Berikut contoh Gambar Output
+![img](Gambar/4.png)</br>
+
+# SELESAI TERIMAKASIH.
